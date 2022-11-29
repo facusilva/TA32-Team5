@@ -1,0 +1,48 @@
+#principal{
+    height:600px;
+    background-color: rgb(222, 222, 222);
+}
+
+div{
+    background-color: rgb(222, 222, 222);
+}
+
+.mega-dropdown {
+    position: static;
+}
+
+#infomenu{
+    font-style:italic;
+}
+
+#finallinea{
+    float:right;
+}
+
+#desplegable >nav >div >div{
+    background-color: rgb(5, 80, 161);
+}
+
+#desplegable >nav >div{
+    background-color: rgb(5, 80, 161);
+}
+
+#desplegable >nav >div >a{
+    color:aliceblue;
+}
+
+#desplegable >li >a{
+    color:aliceblue;
+}
+
+#desplegable >nav >div >div >button{
+    background-color: rgb(5, 80, 161);
+}
+
+a:hover{
+    background-color: rgb(51, 235, 255);
+}
+
+#redes:hover{
+    background-color: rgb(51, 235, 255);
+}
